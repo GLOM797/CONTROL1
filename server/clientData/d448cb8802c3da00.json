@@ -1,0 +1,688 @@
+{
+  "clientID": "d448cb8802c3da00",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [],
+  "notificationLog": [
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "Google Play",
+      "content": "",
+      "postTime": 1598076527545,
+      "key": "0|com.android.providers.downloads|0|1:com.android.vending|10018",
+      "hash": "d4bb9afe637bb63026c569acf09b8e07"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "Google Play",
+      "content": "3 secondi rimanenti",
+      "postTime": 1598076531184,
+      "key": "0|com.android.providers.downloads|0|1:com.android.vending|10018",
+      "hash": "d70cb5a65432f5c737bca404088da76a"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "",
+      "postTime": 1598076607538,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "5d1a886511517069efea1b2f02582690"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "2 minuti rimanenti",
+      "postTime": 1598076610285,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "65a95bde0580ad25b88a43279bafed12"
+    },
+    {
+      "appName": "cm.aptoide.pt",
+      "title": "Aptoide",
+      "content": "Sono disponibili 2 nuovi aggiornamenti",
+      "postTime": 1606333221721,
+      "key": "0|cm.aptoide.pt|123|null|10064",
+      "hash": "e4ccc706a9173b965594be16e9fc9d51"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "1 minuto rimanente",
+      "postTime": 1606333268649,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "b0ff1db6b2f203794d7b3c53c01e8934"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "31 secondi rimanenti",
+      "postTime": 1606333270656,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "0a75e7f1540f0b6c0c61f2ac468a35e4"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "17 secondi rimanenti",
+      "postTime": 1606333272668,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "c131571b5025abe3544a9a9fbe8c18b1"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "10 secondi rimanenti",
+      "postTime": 1606333274663,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "2cdcb62fa9a9861d0c7605d19817f665"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "6 secondi rimanenti",
+      "postTime": 1606333276663,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "9278d27ed9494a287051106a08f255c3"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "3 secondi rimanenti",
+      "postTime": 1606333278666,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "a1d133b812b4bd126317157a15cebf7f"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "2 secondi rimanenti",
+      "postTime": 1606333280697,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "80a57c0d09a26a608593a782b50ffeaa"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "1 secondo rimanente",
+      "postTime": 1606333282681,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "3018cf44ab77e9de6876320205786a80"
+    },
+    {
+      "appName": "com.android.vending",
+      "title": "Aggiorn. librerie supporto Play",
+      "content": "0 secondi rimanenti",
+      "postTime": 1606333294820,
+      "key": "0|com.android.vending|-56862258|null|10000",
+      "hash": "c150afe5d53eddc87782dda20da83e4a"
+    }
+  ],
+  "enabledPermissions": [
+    "android.permission.WAKE_LOCK",
+    "android.permission.CAMERA",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.READ_SMS",
+    "android.permission.SEND_SMS",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.READ_CALL_LOG",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.READ_CONTACTS"
+  ],
+  "apps": [
+    {
+      "appName": "Android Services Library",
+      "packageName": "com.google.android.ext.services",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Location Provider",
+      "packageName": "com.location.provider",
+      "versionName": "7007",
+      "versionCode": 7007
+    },
+    {
+      "appName": "Configurazione rete mobile",
+      "packageName": "com.android.providers.telephony",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Archiviazione calendario",
+      "packageName": "com.android.providers.calendar",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Media Storage",
+      "packageName": "com.android.providers.media",
+      "versionName": "7.1.2",
+      "versionCode": 800
+    },
+    {
+      "appName": "Google One Time Init",
+      "packageName": "com.google.android.onetimeinitializer",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Android Shared Library",
+      "packageName": "com.google.android.ext.shared",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "File",
+      "packageName": "com.android.documentsui",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Fotocamera",
+      "packageName": "com.android.gallery",
+      "versionName": "4.4.2-eng.build.20171012.125910",
+      "versionCode": 19
+    },
+    {
+      "appName": "Archivio esterno",
+      "packageName": "com.android.externalstorage",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Process Manager",
+      "packageName": "com.etechd.l3mon",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Visualizzatore HTML",
+      "packageName": "com.android.htmlviewer",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Gestione download",
+      "packageName": "com.android.providers.downloads",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "[Installer] Asphalt 9",
+      "packageName": "com.androeed.installer_com.gameloft.android.ANMP.GloftA9HM",
+      "versionName": "2.4.4a",
+      "versionCode": 24421
+    },
+    {
+      "appName": "ConfigUpdater",
+      "packageName": "com.google.android.configupdater",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Package Access Helper",
+      "packageName": "com.android.defcontainer",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Download",
+      "packageName": "com.android.providers.downloads.ui",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Play Store",
+      "packageName": "com.android.vending",
+      "versionName": "22.2.13-21 [0] [PR] 335073928",
+      "versionCode": 82221310
+    },
+    {
+      "appName": "PacProcessor",
+      "packageName": "com.android.pacprocessor",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Programma di installazione certificato",
+      "packageName": "com.android.certinstaller",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.carrierconfig",
+      "packageName": "com.android.carrierconfig",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Sistema Android",
+      "packageName": "android",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Contatti",
+      "packageName": "com.android.contacts",
+      "versionName": "1.4.22",
+      "versionCode": 10422
+    },
+    {
+      "appName": "Fotocamera",
+      "packageName": "com.android.camera2",
+      "versionName": "2.0.002",
+      "versionCode": 20002170
+    },
+    {
+      "appName": "com.android.backupconfirm",
+      "packageName": "com.android.backupconfirm",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.provision",
+      "packageName": "com.android.provision",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Intent Filter Verification Service",
+      "packageName": "com.android.statementservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Calendario",
+      "packageName": "com.android.calendar",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Play services for Instant Apps",
+      "packageName": "com.google.android.instantapps.supervisor",
+      "versionName": "6.02-release-304164787",
+      "versionCode": 54465
+    },
+    {
+      "appName": "Memoria impostazioni",
+      "packageName": "com.android.providers.settings",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.sharedstoragebackup",
+      "packageName": "com.android.sharedstoragebackup",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Print Spooler",
+      "packageName": "com.android.printspooler",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Wuffy Player",
+      "packageName": "co.wuffy.player",
+      "versionName": "3.4.3 armeabi-v7a",
+      "versionCode": 401600343
+    },
+    {
+      "appName": "Android System WebView",
+      "packageName": "com.android.webview",
+      "versionName": "Developer Build",
+      "versionCode": 1
+    },
+    {
+      "appName": "Dispositivi di immissione",
+      "packageName": "com.android.inputdevices",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Contatti Google - Sincronizzazione",
+      "packageName": "com.google.android.syncadapters.contacts",
+      "versionName": "7.1.1-3910769",
+      "versionCode": 25
+    },
+    {
+      "appName": "Keychain",
+      "packageName": "com.android.keychain",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Chrome",
+      "packageName": "com.android.chrome",
+      "versionName": "72.0.3626.121",
+      "versionCode": 362612112
+    },
+    {
+      "appName": "Print Service Recommendation Service",
+      "packageName": "com.android.printservice.recommendation",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Telefono",
+      "packageName": "com.android.dialer",
+      "versionName": "3.00.00",
+      "versionCode": 30000
+    },
+    {
+      "appName": "Google Play Services",
+      "packageName": "com.google.android.gms",
+      "versionName": "20.15.15 (040700-306758586)",
+      "versionCode": 201515022
+    },
+    {
+      "appName": "Google Services Framework",
+      "packageName": "com.google.android.gsf",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Partner Setup",
+      "packageName": "com.google.android.partnersetup",
+      "versionName": "7.1.1-4158906",
+      "versionCode": 25
+    },
+    {
+      "appName": "Installazione pacchetti",
+      "packageName": "com.android.packageinstaller",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Pico TTS",
+      "packageName": "com.svox.pico",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "ProxyHandler",
+      "packageName": "com.android.proxyhandler",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Tastiera Android (AOSP)",
+      "packageName": "com.android.inputmethod.latin",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Market Feedback Agent",
+      "packageName": "com.google.android.feedback",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Calendar - Sincronizzazione",
+      "packageName": "com.google.android.syncadapters.calendar",
+      "versionName": "5.2.3-99827563-release",
+      "versionCode": 2015080710
+    },
+    {
+      "appName": "Asphalt 9",
+      "packageName": "com.gameloft.android.ANMP.GloftA9HM",
+      "versionName": "2.4.4a",
+      "versionCode": 24421
+    },
+    {
+      "appName": "Google Account Manager",
+      "packageName": "com.google.android.gsf.login",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Selettore sfondo animato",
+      "packageName": "com.android.wallpaper.livepicker",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Trasferimento di copie di backup di Google",
+      "packageName": "com.google.android.backuptransport",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Gestione archiviazione",
+      "packageName": "com.android.storagemanager",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Bookmark Provider",
+      "packageName": "com.android.bookmarkprovider",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Impostazioni",
+      "packageName": "com.android.settings",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Calcolatrice",
+      "packageName": "com.android.calculator2",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "My Account",
+      "packageName": "com.uncube.account",
+      "versionName": "7028.0",
+      "versionCode": 7028
+    },
+    {
+      "appName": "VpnDialogs",
+      "packageName": "com.android.vpndialogs",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "ONE store service",
+      "packageName": "com.skt.skaf.OA00018282",
+      "versionName": "6.120",
+      "versionCode": 61201
+    },
+    {
+      "appName": "Dati mobili",
+      "packageName": "com.android.phone",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Shell",
+      "packageName": "com.android.shell",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Archivio numeri bloccati",
+      "packageName": "com.android.providers.blockednumber",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "AIO Streamer",
+      "packageName": "com.streamdev.aiostreamer",
+      "versionName": "5.0",
+      "versionCode": 70
+    },
+    {
+      "appName": "Dizionario utente",
+      "packageName": "com.android.providers.userdictionary",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Fused Location",
+      "packageName": "com.android.location.fused",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Orologio",
+      "packageName": "com.android.deskclock",
+      "versionName": "4.5.0",
+      "versionCode": 450
+    },
+    {
+      "appName": "UI sistema",
+      "packageName": "com.android.systemui",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Aptoide",
+      "packageName": "cm.aptoide.pt",
+      "versionName": "9.17.1.0",
+      "versionCode": 10033
+    },
+    {
+      "appName": "원스토어",
+      "packageName": "com.skt.skaf.A000Z00040",
+      "versionName": "6.8.1",
+      "versionCode": 60801
+    },
+    {
+      "appName": "com.google.android.gms.setup",
+      "packageName": "com.google.android.gms.setup",
+      "versionName": "128400.136030149.136030149",
+      "versionCode": 128400
+    },
+    {
+      "appName": "Netflix by APKMODY",
+      "packageName": "com.battlenet.showguide",
+      "versionName": "7.74.1",
+      "versionCode": 56
+    },
+    {
+      "appName": "Google Play Giochi",
+      "packageName": "com.google.android.play.games",
+      "versionName": "2020.03.16841 (303850759.303850759-000704)",
+      "versionCode": 168410074
+    },
+    {
+      "appName": "com.android.wallpaperpicker",
+      "packageName": "com.android.wallpaperpicker",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Archiviazione contatti",
+      "packageName": "com.android.providers.contacts",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "CaptivePortalLogin",
+      "packageName": "com.android.captiveportallogin",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    }
+  ],
+  "GPSData": [
+    {
+      "time": "2020-11-25T19:41:28.428Z",
+      "enabled": true,
+      "latitude": 40.851776123046875,
+      "longitude": 14.268123626708984,
+      "altitude": 4,
+      "accuracy": 1,
+      "speed": 0
+    }
+  ],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated"
+    },
+    {
+      "name": "Alarms",
+      "isDir": true,
+      "path": "/storage/emulated/0/Alarms"
+    },
+    {
+      "name": "androeed.ru",
+      "isDir": true,
+      "path": "/storage/emulated/0/androeed.ru"
+    },
+    {
+      "name": "Notifications",
+      "isDir": true,
+      "path": "/storage/emulated/0/Notifications"
+    },
+    {
+      "name": "Download",
+      "isDir": true,
+      "path": "/storage/emulated/0/Download"
+    },
+    {
+      "name": "Pictures",
+      "isDir": true,
+      "path": "/storage/emulated/0/Pictures"
+    },
+    {
+      "name": "Android",
+      "isDir": true,
+      "path": "/storage/emulated/0/Android"
+    },
+    {
+      "name": "Music",
+      "isDir": true,
+      "path": "/storage/emulated/0/Music"
+    },
+    {
+      "name": "windows",
+      "isDir": true,
+      "path": "/storage/emulated/0/windows"
+    },
+    {
+      "name": "Netflix",
+      "isDir": true,
+      "path": "/storage/emulated/0/Netflix"
+    },
+    {
+      "name": "DCIM",
+      "isDir": true,
+      "path": "/storage/emulated/0/DCIM"
+    },
+    {
+      "name": "Ringtones",
+      "isDir": true,
+      "path": "/storage/emulated/0/Ringtones"
+    },
+    {
+      "name": "Movies",
+      "isDir": true,
+      "path": "/storage/emulated/0/Movies"
+    },
+    {
+      "name": "Podcasts",
+      "isDir": true,
+      "path": "/storage/emulated/0/Podcasts"
+    }
+  ]
+}

@@ -1,0 +1,1453 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "a5476fba87d4b577c3df05fa9237f33e",
+    "logs": [
+      {
+        "time": "2020-06-11T18:29:52.095Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-11T18:34:00.643Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-11T18:34:37.896Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-11T18:49:28.858Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-11T18:50:23.986Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-11T18:50:24.116Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Apps Updated"
+      },
+      {
+        "time": "2020-06-11T18:50:35.519Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-11T18:50:35.530Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Permissions Updated"
+      },
+      {
+        "time": "2020-06-11T18:50:55.854Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-11T20:04:17.540Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-11T20:07:54.829Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 ClipBoard Recieved"
+      },
+      {
+        "time": "2020-06-11T20:13:09.383Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-11T20:13:27.904Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-12T15:37:01.807Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-12T15:38:02.952Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:05.071Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:07.329Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:09.555Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:11.524Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:13.524Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:15.509Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:17.758Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:19.676Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:21.874Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:23.802Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:27.932Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:29.964Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:31.891Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:39.549Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:38:56.765Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:22.349Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:24.924Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:26.605Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:31.772Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:36.240Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:38.572Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:40.695Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:50.067Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:52.142Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:54.194Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:39:58.469Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:40:02.905Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:40:06.049Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:40:06.909Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:40:09.865Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:40:12.055Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:40:14.148Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-06-12T15:44:39.654Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-12T15:44:39.806Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Permissions Updated"
+      },
+      {
+        "time": "2020-06-12T15:44:42.819Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-12T15:44:43.499Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Permissions Updated"
+      },
+      {
+        "time": "2020-06-12T15:44:44.328Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-12T15:44:44.432Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Permissions Updated"
+      },
+      {
+        "time": "2020-06-12T15:44:48.887Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-12T15:44:49.695Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-06-12T15:44:59.464Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-12T15:45:00.128Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-06-12T15:45:18.522Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:05:37.015Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-14T07:06:45.063Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-14T07:07:11.166Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:10:40.411Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-14T07:10:56.478Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:11:02.082Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:11:02.839Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Apps Updated"
+      },
+      {
+        "time": "2020-06-14T07:11:07.826Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:11:34.444Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:11:34.729Z",
+        "type": "ERROR",
+        "message": "d448cb8802c3da00 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-06-14T07:11:34.730Z",
+        "type": "ERROR",
+        "message": "d448cb8802c3da00 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2020-06-14T07:13:36.068Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:13:39.989Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:13:40.269Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 GPS Updated"
+      },
+      {
+        "time": "2020-06-14T07:14:44.030Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T07:14:44.468Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Apps Updated"
+      },
+      {
+        "time": "2020-06-14T07:16:20.036Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:16:47.712Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-14T07:19:32.491Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:23:45.161Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Connected"
+      },
+      {
+        "time": "2020-06-14T07:24:05.075Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:24:11.201Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Connected"
+      },
+      {
+        "time": "2020-06-14T07:24:28.502Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:24:29.166Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Call Log Updated - 79 New Calls"
+      },
+      {
+        "time": "2020-06-14T07:24:41.532Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Notification Recieved"
+      },
+      {
+        "time": "2020-06-14T07:25:01.974Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:25:04.092Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Apps Updated"
+      },
+      {
+        "time": "2020-06-14T07:25:12.263Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:25:12.964Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2020-06-14T07:25:23.657Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:25:24.899Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Apps Updated"
+      },
+      {
+        "time": "2020-06-14T07:25:43.088Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:25:43.414Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-06-14T07:25:53.151Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:25:53.546Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Permissions Updated"
+      },
+      {
+        "time": "2020-06-14T07:25:59.150Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:26:21.886Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:26:22.857Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Contacts Updated - 201 New Contacts Added"
+      },
+      {
+        "time": "2020-06-14T07:27:08.992Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:27:22.341Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Connected"
+      },
+      {
+        "time": "2020-06-14T07:27:22.341Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Running Queued Commands"
+      },
+      {
+        "time": "2020-06-14T07:27:22.341Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:27:22.972Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:27:23.219Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2020-06-14T07:27:23.948Z",
+        "type": "SUCCESS",
+        "message": "31d3def4efea7ba2 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2020-06-14T07:27:49.218Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:28:08.202Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:28:08.559Z",
+        "type": "ERROR",
+        "message": "31d3def4efea7ba2 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-06-14T07:28:08.560Z",
+        "type": "ERROR",
+        "message": "31d3def4efea7ba2 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2020-06-14T07:28:59.358Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:28:59.670Z",
+        "type": "ERROR",
+        "message": "31d3def4efea7ba2 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-06-14T07:28:59.671Z",
+        "type": "ERROR",
+        "message": "31d3def4efea7ba2 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2020-06-14T07:29:28.788Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:29:33.697Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:29:46.493Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Connected"
+      },
+      {
+        "time": "2020-06-14T07:29:50.203Z",
+        "type": "INFO",
+        "message": "Recieving sound3160487365804045274.mp3 from 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:30:43.584Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Disconnected"
+      },
+      {
+        "time": "2020-06-14T07:30:58.469Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Connected"
+      },
+      {
+        "time": "2020-06-14T07:31:04.346Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 31d3def4efea7ba2"
+      },
+      {
+        "time": "2020-06-14T07:31:04.878Z",
+        "type": "ERROR",
+        "message": "31d3def4efea7ba2 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-06-14T07:31:04.879Z",
+        "type": "ERROR",
+        "message": "31d3def4efea7ba2 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2020-06-14T07:31:51.379Z",
+        "type": "INFO",
+        "message": "31d3def4efea7ba2 Disconnected"
+      },
+      {
+        "time": "2020-06-14T09:56:23.688Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-14T10:01:42.383Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-14T10:04:33.000Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-14T10:07:55.425Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-14T10:08:49.327Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-06-14T10:09:45.144Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-06-14T10:09:45.433Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 GPS Updated"
+      },
+      {
+        "time": "2020-06-14T10:12:44.600Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 ClipBoard Recieved"
+      },
+      {
+        "time": "2020-06-14T10:13:09.335Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-06T15:33:13.989Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-07-06T15:39:01.525Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-07-06T15:39:29.904Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-06T15:40:41.424Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-06T15:40:46.142Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-06T15:40:46.290Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Apps Updated"
+      },
+      {
+        "time": "2020-07-06T15:41:00.578Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-06T15:41:00.589Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 GPS Updated"
+      },
+      {
+        "time": "2020-07-06T15:41:21.235Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-06T15:41:21.244Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 GPS Updated"
+      },
+      {
+        "time": "2020-07-06T15:43:50.571Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-06T15:45:56.871Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-06T15:47:01.712Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-06T15:47:24.188Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-06T15:47:42.809Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-07T17:37:47.046Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-07T17:38:16.308Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:16.435Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Apps Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:27.541Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:27.574Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:29.340Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:31.047Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:31.062Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:35.210Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:35.224Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:35.418Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:37.903Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:38.554Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:38.617Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:39.889Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:40.283Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:40.315Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:41.912Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:43.891Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:45.894Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:46.274Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:46.300Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:47.908Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:38:48.283Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-07T17:38:48.299Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-07T17:38:49.665Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-07T17:58:57.307Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-09T17:16:08.861Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-09T17:16:18.242Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-09T17:16:30.491Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-09T17:16:40.579Z",
+        "type": "INFO",
+        "message": "Recieving sound1454269012.mp3 from d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-09T17:16:41.436Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-09T17:16:59.868Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-09T17:17:01.816Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-09T17:17:03.840Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-09T17:17:04.644Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-09T17:17:05.824Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-09T17:17:07.841Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-09T17:17:09.878Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-09T17:17:11.549Z",
+        "type": "INFO",
+        "message": "Recieving sound1554250975.mp3 from d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-09T17:19:38.559Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 ClipBoard Recieved"
+      },
+      {
+        "time": "2020-07-09T17:26:41.959Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 ClipBoard Recieved"
+      },
+      {
+        "time": "2020-07-09T17:27:31.499Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 ClipBoard Recieved"
+      },
+      {
+        "time": "2020-07-09T17:29:08.669Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 ClipBoard Recieved"
+      },
+      {
+        "time": "2020-07-09T17:30:51.017Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-15T17:05:28.553Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-15T17:05:44.507Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-15T17:05:46.464Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-15T17:05:48.495Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-15T17:05:50.481Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-15T17:05:52.563Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-15T17:05:54.522Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-15T17:06:03.519Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:03.530Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 GPS Updated"
+      },
+      {
+        "time": "2020-07-15T17:06:40.683Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:40.739Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:06:44.456Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:44.478Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:06:49.854Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:49.865Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:06:51.899Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:51.912Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:06:53.335Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:53.376Z",
+        "type": "INFO",
+        "message": "Recieving File Fromd448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:53.378Z",
+        "type": "SUCCESS",
+        "message": "File Fromd448cb8802c3da00 Saved"
+      },
+      {
+        "time": "2020-07-15T17:06:56.369Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:56.386Z",
+        "type": "INFO",
+        "message": "Recieving File Fromd448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:06:56.388Z",
+        "type": "SUCCESS",
+        "message": "File Fromd448cb8802c3da00 Saved"
+      },
+      {
+        "time": "2020-07-15T17:07:33.753Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:33.764Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:35.648Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:35.665Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:39.482Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:39.495Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:41.523Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:41.538Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:44.705Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:44.720Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:47.131Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:47.151Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:51.029Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:51.039Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:53.709Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:53.723Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:07:59.810Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:07:59.821Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:08:02.150Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:08:02.165Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:08:05.779Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:08:05.789Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:08:08.686Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-07-15T17:08:08.699Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-07-15T17:10:33.721Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-07-17T18:50:29.212Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-07-17T18:50:34.079Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-17T18:51:17.556Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-07-17T18:51:19.537Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-08-05T16:38:15.105Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-08-05T16:38:28.457Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-08-05T16:38:34.793Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-08-05T16:42:11.034Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-08-05T16:43:09.018Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-08-05T16:43:16.205Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-08-05T16:43:26.309Z",
+        "type": "INFO",
+        "message": "Recieving sound1453415459.mp3 from d448cb8802c3da00"
+      },
+      {
+        "time": "2020-08-05T16:43:54.903Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-08-05T17:08:20.429Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-08-22T06:08:44.840Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-08-22T06:08:46.793Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-08-22T06:08:50.432Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-08-22T06:10:06.799Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-08-22T06:10:09.549Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-08-22T06:10:12.029Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      },
+      {
+        "time": "2020-11-25T19:40:18.746Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Connected"
+      },
+      {
+        "time": "2020-11-25T19:40:21.009Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:40:46.284Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:40:51.489Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:40:51.626Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Apps Updated"
+      },
+      {
+        "time": "2020-11-25T19:40:59.786Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:40:59.794Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 Permissions Updated"
+      },
+      {
+        "time": "2020-11-25T19:41:07.933Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:09.942Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:10.464Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:41:10.481Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-11-25T19:41:11.955Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:13.949Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:15.952Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:17.949Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:19.979Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:21.963Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:41:28.417Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:41:28.429Z",
+        "type": "SUCCESS",
+        "message": "d448cb8802c3da00 GPS Updated"
+      },
+      {
+        "time": "2020-11-25T19:41:34.102Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Notification Recieved"
+      },
+      {
+        "time": "2020-11-25T19:46:07.840Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:46:11.517Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From d448cb8802c3da00"
+      },
+      {
+        "time": "2020-11-25T19:46:38.468Z",
+        "type": "INFO",
+        "message": "d448cb8802c3da00 Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "d448cb8802c3da00",
+      "firstSeen": "2020-06-11T15:53:31.577Z",
+      "lastSeen": "2020-11-25T19:46:38.470Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "79.12.231.9",
+        "clientGeo": {
+          "range": [
+            1326245632,
+            1326245695
+          ],
+          "country": "IT",
+          "region": "72",
+          "eu": "1",
+          "timezone": "Europe/Rome",
+          "city": "Lettere",
+          "ll": [
+            40.7049,
+            14.5449
+          ],
+          "metro": 0,
+          "area": 200
+        },
+        "device": {
+          "model": "SM-G973F",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "31d3def4efea7ba2",
+      "firstSeen": "2020-06-14T07:23:45.155Z",
+      "lastSeen": "2020-06-14T07:31:51.379Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "1",
+        "clientGeo": {},
+        "device": {
+          "model": "PRA-LX1",
+          "manufacture": "HUAWEI",
+          "version": "8.0.0"
+        }
+      }
+    }
+  ]
+}
